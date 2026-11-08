@@ -3,7 +3,7 @@
     <string name="app_name">图集工坊</string>
     <string name="subtitle">0.14.x 材质包 → terrain / items 图集</string>
     <string name="pick_zip">点此选择材质包 (.zip)</string>
-    <string name="pick_zip_sub">支持 0.14.x / 1.x 材质包，自动按名字匹配贴图</string>
+    <string name="pick_zip_sub">支持高版本材质包，自动按名字匹配贴图</string>
     <string name="section_options">转换参数</string>
     <string name="opt_scale">图集倍率</string>
     <string name="opt_multi">多格处理</string>
