@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">图集工坊</string>
+    <string name="subtitle">0.14.x 材质包 → terrain / items 图集</string>
+    <string name="pick_zip">点此选择材质包 (.zip)</string>
+    <string name="pick_zip_sub">支持 0.14.x / 1.x 材质包，自动按名字匹配贴图</string>
+    <string name="section_options">转换参数</string>
+    <string name="opt_scale">图集倍率</string>
+    <string name="opt_multi">多格处理</string>
+    <string name="opt_desat">去饱和</string>
+    <string name="opt_loose">导出原尺寸单图</string>
+    <string name="opt_mip">生成 mip 层级</string>
+    <string name="opt_meta">同时输出 meta</string>
+    <string name="opt_assets">整理 assets/images</string>
+    <string name="btn_start">开始转换</string>
+    <string name="section_log">运行日志</string>
+    <string name="btn_copy">复制</string>
+    <string name="section_result">转换完成</string>
+    <string name="btn_share">分享图集</string>
+    <string name="btn_preview">预览效果</string>
+    <string name="btn_zip">打包 ZIP</string>
+    <string name="footer">核心移植自 atlas.py v15 · 内置 0.14.3 参考图集 · 全程离线</string>
+    <string name="multi_skip">跳过</string>
+    <string name="multi_same">同图</string>
+    <string name="multi_alts">按变体</string>
+    <string name="phase_idle">等待开始</string>
+</resources>

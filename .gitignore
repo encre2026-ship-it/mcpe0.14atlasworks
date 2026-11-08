@@ -1,0 +1,19 @@
+# ---- 构建产物 ----
+*.apk
+*.apk.idsig
+*.class
+*.dex
+/tmp/
+/build/
+/out/
+
+# ---- 本地环境 ----
+*.log
+*.keystore
+local.properties
+.idea/
+.gradle/
+
+# ---- Mojang 版权素材：不入库，用 tools/extract_refs.py 从你自己的 APK 生成 ----
+app/assets/*.tga
+app/assets/*.meta
